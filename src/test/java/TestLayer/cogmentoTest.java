@@ -9,4 +9,12 @@ public class cogmentoTest {
 		 System.out.println("login testcase created by prajakta");
 	 }
 
+	 @Test
+	 public void contctpage() {
+		   
+		 System.out.println("contctpage testcase created by tejaswini");
+	 }
+	 
 }
+
+
