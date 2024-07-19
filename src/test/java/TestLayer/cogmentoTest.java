@@ -8,5 +8,11 @@ public class cogmentoTest {
 		   
 		 System.out.println("login testcase created by prajakta");
 	 }
+	 
+	 @Test
+	 public void Homepage() {
+		   
+		 System.out.println("homepage testcase created by teju");
+	 }
 
 }
