@@ -10,9 +10,9 @@ public class cogmentoTest {
 	 }
 
 	 @Test
-	 public void contctpage() {
+	 public void dealspage() {
 		   
-		 System.out.println("contctpage testcase created by tejaswini");
+		 System.out.println("dealspage testcase created by tejaswini dhote");
 	 }
 	 
 }
